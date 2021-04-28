@@ -1,0 +1,38 @@
+header {
+    background-color:rgb(11, 213, 211);
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+}
+
+.navBar {
+    background-color: darkslategray;
+    
+}
+.navBar a.loneLink {
+    text-align: end;
+}
+.image-placeholder {
+    background-color: grey;
+    display: flex;
+    height: 180px;
+    margin: 5px;
+    width: 100%;
+}
+.image-placeholder > h4 {
+    align-self: center;
+    text-align: center;
+    width: 100%;
+    background-color: gray;
+
+}
+.image-placeholder2 {
+    display: flex;
+    height: 20%;
+    margin-bottom: 5%;
+    background:grey;
+}
+#footer {
+    display: flex;
+    text-align: center;
+}
